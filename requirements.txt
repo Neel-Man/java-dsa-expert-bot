@@ -6,3 +6,4 @@ langchain-groq
 langchain-community
 flashrank
 python-dotenv
+protobuf==4.25.3
